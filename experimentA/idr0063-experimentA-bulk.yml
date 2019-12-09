@@ -1,0 +1,14 @@
+---
+path: "idr0063-experimentA-filePaths.tsv"
+continue: true
+transfer: "ln_s"
+exclude: "clientpath"
+skip:
+  - checksum
+  - minmax
+parallel_upload: "8"
+columns:
+  - target
+  - path
+  - name
+
