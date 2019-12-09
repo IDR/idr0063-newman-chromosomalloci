@@ -10,5 +10,4 @@ parallel_upload: "8"
 columns:
   - target
   - path
-  - name
 
