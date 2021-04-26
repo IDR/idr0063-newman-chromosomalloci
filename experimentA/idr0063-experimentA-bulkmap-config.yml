@@ -61,7 +61,6 @@ columns:
       - name: Comment [Gene Identifier]
         clientname: Gene Identifier
         include: yes
-        omitempty: no
       - name: Comment [Gene Identifier]
         clientname: Gene Identifier URL
         clientvalue: https://www.ncbi.nlm.nih.gov/gene/{{ value|urlencode }}
@@ -69,7 +68,6 @@ columns:
       - name: Comment [Gene Symbol]
         clientname: Gene Symbol
         include: yes
-        omitempty: no
 
 advanced:
   well_to_images: yes
@@ -78,3 +76,7 @@ advanced:
     - namespace: openmicroscopy.org/mapr/organism
       keys:
         - Organism
+    - namespace: openmicroscopy.org/mapr/gene
+      keys:
+        - Gene Identifier
+        - Gene Symbol
