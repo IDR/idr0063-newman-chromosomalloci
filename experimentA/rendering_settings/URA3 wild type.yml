@@ -1,0 +1,12 @@
+---
+channels:
+    1:
+        active: true
+        color: '808080'
+        end: 1750.0
+        label: 'URA3'
+        max: 65535.0
+        min: 0.0
+        start: 1000.0
+greyscale: true
+version: 2
