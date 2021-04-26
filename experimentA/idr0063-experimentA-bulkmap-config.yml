@@ -40,10 +40,6 @@ columns:
     clientname: Image File Comments
     include: true
 
-  - name: Channels
-    clientname: Channels
-    include: true
-
   ######################################################################
   # mapr groups
   ######################################################################
