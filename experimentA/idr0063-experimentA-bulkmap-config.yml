@@ -24,12 +24,24 @@ columns:
     clientname: Strain
     include: true
 
-  - name: Comment [Image File Comments]
-    clientname: Comment
-    include: true
-
   - name: Experimental Condition [Time Point]
     clientname: Time Point
+    include: true
+
+  - name: Assay Quality Control
+    clientname: Assay Quality Control
+    include: true
+
+  - name: Image Quality Control
+    clientname: Image Quality Control
+    include: true
+
+  - name: Comment [Image File Comments]
+    clientname: Image File Comments
+    include: true
+
+  - name: Channels
+    clientname: Channels
     include: true
 
   ######################################################################
