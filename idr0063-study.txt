@@ -45,7 +45,7 @@ Term Source URI	http://purl.obolibrary.org/obo/	http://www.ebi.ac.uk/efo/	http:/
 # Experiment Section containing all information relative to each experiment in the study including materials used, protocols names and description, phenotype names and description. For multiple experiments this section should be repeated.  Copy and paste the whole section below and fill out for the next experiment
 
 Experiment Number	1
-Comment[IDR Experiment Name]	idr0063-newman-chromosomalloci
+Comment[IDR Experiment Name]	idr0063-newman-chromosomalloci/experimentA
 Experiment Sample Type	cell
 Experiment Description	Live-cell imaging was used to measure the distance between two fluorescently-tagged chromosomal loci over time in yeast nuclei throughout prophase I of meiosis. 
 Experiment Size	5D Images: 146	Average Image Dimension (XYZCT): 512 px (x: 0.133 um/px) 512 px (y: 0.133 um/px) 41 sections (z: 0.25 um step) 1 color (c: GFP) 50 timepoints (t: 30 s int.)	Total Tb: 0.12 Tb (1.2 GB)
