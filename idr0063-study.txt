@@ -17,8 +17,8 @@ Study Public Release Date	2021-04-29
 
 # Study Publication
 Study PubMed ID
-Study Publication Title	Homologous chromosomes undergo sequential, quasi- stable, interactions during meiotic prophase
-Study Author List	Newman T, Beltran B, McGehee J, Cahoon C, Elnatan D, Chu D, Spakowitz A, Burgess S
+Study Publication Title	Homologous locus pairing is a transient, diffusion-mediated process in meiotic prophase
+Study Author List	Newman TAC, Beltran B, McGehee JM, Elnatan D, Cahoon CK, Paddy MR, Chu DB, Spakowitz AJ, Burgess SM
 Study PMC ID
 Study DOI
 
